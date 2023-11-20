@@ -1,0 +1,43 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+
+
+#google-fonts {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  font-family: "Arial","Meiryo",sans-serif;
+}
+
+.paragraph {
+  color: rgb(255, 192, 203);
+}
+
+.para {
+  color: skyblue;
+}
+
+#basic div {
+  font-weight: bold;
+}
+
+#basic P {
+  font-weight: bold;
+}
+
